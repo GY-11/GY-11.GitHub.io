@@ -48,9 +48,8 @@ smartprofile/
 │   └── smartprofile.db   # 数据库文件
 ├── docs/                 # 文档
 │   ├── README.md         # 项目说明
-│   ├── dev_idea.md       # 开发思路
-│   └── prompt.md         # Prompt文档
-└── README.md
+│   ├── 算法逻辑说明.md       # 算法逻辑说明
+│—— └── prompt.md         # Prompt文档
 ```
 
 ## 快速开始
