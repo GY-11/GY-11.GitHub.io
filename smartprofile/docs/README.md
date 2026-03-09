@@ -48,7 +48,7 @@ smartprofile/
 │   └── smartprofile.db   # 数据库文件
 ├── docs/                 # 文档
 │   ├── README.md         # 项目说明
-│   ├── 算法逻辑说明.md       # 算法逻辑说明
+│   ├── 算法逻辑说明.md    # 算法逻辑说明
 │—— └── prompt.md         # Prompt文档
 ```
 
